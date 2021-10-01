@@ -1,4 +1,5 @@
 // This is a new comment
+// This is a second comment
 <html>  
 <head>  
 <script type="text/javascript">  
